@@ -1,0 +1,9 @@
+[submodule "LLMCompass"]
+	path = LLMCompass
+	url = https://github.com/shirohasuki/LLMCompass.git
+[submodule "Timeloop"]
+	path = Timeloop
+	url = https://github.com/shirohasuki/Timeloop.git
+[submodule "ChampSim"]
+	path = ChampSim
+	url = https://github.com/shirohasuki/ChampSim.git
